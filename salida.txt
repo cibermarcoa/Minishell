@@ -1,0 +1,13 @@
+a.out
+archivo.txt
+enunciado.pdf
+error.txt
+libparser_64.a
+libparser.a
+Makefile
+minishell
+minishell.c
+parser.h
+salida.txt
+test
+test.c
